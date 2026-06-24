@@ -1,3 +1,3 @@
 ``` aaaa
-https://github.com/kiyu4776/Cyanide-repo/repo.json
+https://kiyu4776.github.io/Cyanide-repo/repo.json
 ```
