@@ -1,0 +1,13 @@
+{
+  "repoName": "test",
+  "author": "kiyu4776",
+  "tweaks": [
+    {
+      "id": "com.main.kiyu4776.backdrop.hide",
+      "name": "Backdrop Hide",
+      "description": "test",
+      "version": "1.0.0",
+      "scriptURL": "https://github.com/kiyu4776/Cyanide-repo/raw/main/Tweak/BackdropHide.js"
+    }
+  ]
+}
